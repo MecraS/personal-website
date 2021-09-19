@@ -4,9 +4,10 @@ role: Software Engineer
 avatar_filename: avatar.jpg.jpg
 bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Distributed Systems
+  - Microservices
+  - Databases
 social:
   - icon: envelope
     icon_pack: fas
