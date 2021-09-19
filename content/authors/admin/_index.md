@@ -1,6 +1,7 @@
 ---
 title: Andrea Moscatelli
 role: Software Engineer
+avatar_filename: immagine_profilo_linkedin.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
