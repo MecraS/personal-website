@@ -1,9 +1,8 @@
 ---
 title: Andrea Moscatelli
 role: Software Engineer
-avatar_filename: immagine_profilo_linkedin.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+avatar_filename: avatar.jpg.jpg
+bio: ""
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -25,8 +24,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Goldman Sachs
+    url: https://www.goldmansachs.com/index.html
 education:
   courses:
     - course: PhD in Artificial Intelligence
