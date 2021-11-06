@@ -21,16 +21,13 @@ organizations:
     url: https://www.goldmansachs.com/index.html
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: MSc in Software Engineering and Machine Learning
+      institution: Sapienza University of Rome
+      year: 2019
+    - course: BSc in Software Engineering
+      institution: Sapienza University of Rome
+      year: 2017
+email: andrea.moscatelli95@gmail.com
 superuser: true
 highlight_name: true
 ---
